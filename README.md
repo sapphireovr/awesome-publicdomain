@@ -20,6 +20,7 @@ Contents
 Various web programs and other miscellanea.
 
 * [iyagi][3] - Textboard software designed for simple deployment, written in Python 3. [CC0][2]
+* [werchan][6] - Imageboard software written in rc, using the werc framework. Public Domain w/ ISC alternative
 * [wiki][4] - Simple wiki software written in Python 3, modeled after C2. [CC0][2]
 * [wlog][5] - Simple blog software written in Python 3, takes Markdown for input. [CC0][2]
 
@@ -29,3 +30,4 @@ Various web programs and other miscellanea.
 [3]: https://github.com/153/iyagi-bbs
 [4]: https://github.com/153/wiki
 [5]: https://github.com/153/wlog
+[6]: https://github.com/kfarwell/werchan
