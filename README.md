@@ -20,6 +20,7 @@ Contents
 Various web programs and other miscellanea.
 
 * [iyagi][3] - Textboard software designed for simple deployment, written in Python 3. [CC0][2]
+* [kareha][7] - The canonical western textboard software, written in Perl 5 (obsolete, use iyagi instead). Public Domain
 * [werchan][6] - Imageboard software written in rc, using the werc framework. Public Domain w/ ISC alternative
 * [wiki][4] - Simple wiki software written in Python 3, modeled after C2. [CC0][2]
 * [wlog][5] - Simple blog software written in Python 3, takes Markdown for input. [CC0][2]
