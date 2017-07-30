@@ -32,4 +32,4 @@ Various web programs and other miscellanea.
 [4]: https://github.com/153/wiki
 [5]: https://github.com/153/wlog
 [6]: https://github.com/kfarwell/werchan
-[7]: https://github.com/marlencrabapple/kareha-psgi
+[7]: https://wakaba.c3.cx/s/web/wakaba_kareha
